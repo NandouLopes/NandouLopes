@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @NandouLopes from Brasil
 - 👀 I’m interested in poetry creation.
-    I have developed a software that ramdomly
-    gathers words and phrases and the result of such thing : a poetry is born.
+    I have developed an App that ramdomly
+    gathers words and phrases
+    and the result of such thing : a poetry is born.
 
 - 🌱 I’m currently learning Streamlit & Python
 - 📫 How to reach me: lopes.fernando@hotmail.com.br
