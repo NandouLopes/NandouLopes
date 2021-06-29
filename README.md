@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @NandouLopes from Brasil
 - 👀 I’m interested in poetry creation.
-    I have developed an App that ramdomly
-    gathers words and phrases
-    and the result of such thing : a poetry is born.
 
-- 🌱 I’m currently learning Streamlit & Python
+My project is an App that randomly gathers words and phrases from specific databases
+and organize them into thousands and thousands of new different poems or poetic texts.
+
 - 📫 How to reach me: lopes.fernando@hotmail.com.br
 
 <!---
